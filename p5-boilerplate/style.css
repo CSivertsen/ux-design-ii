@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  font-family: "Arial";
+  font-size: 40;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 20px;
+  color: #ff0033;
+}
